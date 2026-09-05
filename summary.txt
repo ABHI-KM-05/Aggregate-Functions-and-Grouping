@@ -1,0 +1,1 @@
+In this task, I used SQL aggregate functions like SUM, COUNT, and AVG to analyze employee data. I used GROUP BY to organize the data based on departments and HAVING to filter the grouped results. This helped me understand how SQL can be used to summarize and analyze large amounts of data efficiently.
